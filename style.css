@@ -217,6 +217,8 @@ section {
                 margin: 2rem auto;
                 line-height: 1.8rem;
                 max-width: 800px;
+                color: var(--black);
+                font-weight: bolder;   
                }
  
          }
